@@ -1,0 +1,3 @@
+from src.using_python_old import processar_temperaturas
+
+processar_temperaturas()
